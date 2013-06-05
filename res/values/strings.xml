@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" >Twitley</string>
+    <string name="retry">Retry</string>
+    <string name="some_error">Some error</string>
+    <string name="no_conntection">No connection</string>
+
+</resources>
